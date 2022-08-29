@@ -5,4 +5,4 @@ Através da programação orientada a objetos, o programa gerencia um sorteio de
 
 O programa funciona da seguinte forma: ele sorteia 25 números (Tele-Sena premiada). Após, verifica se algum usuário previamente gerado acertou esses 25 números (cada usuário compra um número aleatório de Tele-Senas, ou seja, de conjuntos de 25 números). Se nenhum usuário acertou os números, o sistema vai sorteando um número extra até algum usuário ter acertado os 25 números.
 
-Após, o sistma apresenta informações sobre o sorteio, como o número de Tele-Senas vendidas, o valor total arrecadado, o prêmio de cada ganhador e o lucro total do sorteio.
+Após, o sistema apresenta informações sobre o sorteio, como o número de Tele-Senas vendidas, o valor total arrecadado, o prêmio de cada ganhador e o lucro total do sorteio.
