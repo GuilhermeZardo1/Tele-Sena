@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TeleSena
+comment1.params=
+comment1.target=TeleSena()
+comment1.text=Declara\u00E7\u00E3o\ do\ construtor
+comment2.params=
+comment2.target=double\ getValor()
+comment2.text=IN\u00CDCIO\ DA\ DECLARA\u00C7\u00C3O\ DOS\ GETTERS\ AND\ SETTERS.\ NEM\ TODOS\ FORAM\ UTILIZADOS.
+comment3.params=
+comment3.target=int[]\ getConjunto1()
+comment4.params=
+comment4.target=int[]\ getConjunto2()
+comment5.params=valor
+comment5.target=void\ setValor(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ ImprimeConjuntos()
+comment7.text=M\u00E9todo\ que\ imprime\ os\ dois\ conjuntos\ de\ n\u00FAmeros\ da\ TeleSena
+numComments=8
